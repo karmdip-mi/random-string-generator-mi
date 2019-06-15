@@ -1,4 +1,4 @@
-# Random
+# Random String Generator By Mindinventory
 
 Javascript random string generator, it's also customize with prefix and suffix as per defined.
 
