@@ -1,15 +1,15 @@
-#Random
+# Random
 
 Javascript random string generator, it's also customize with prefix and suffix as per defined.
 
-#Install                         
+# Install                         
 
 **By npm:**
 ```
 npm install random-string-generator-mi --save
 ```
 
-#Documentation
+# Documentation
 > Generate Random String
 ```
 generateString('prefix','suffix')
@@ -21,7 +21,7 @@ generateString('prefix','suffix')
 decodeUniqueString('yourRandomString')
 ```
 
-#Example
+# Example
 
 > Generate Random String 
 
@@ -52,9 +52,9 @@ console.log(decodeUniqueString('prefix-pt56xf-suffix'))
 
 ```
 
-#Contributing
+# Contributing
 
 Instead of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality.
 
-#License
+# License
 Licensed under the MIT license.
